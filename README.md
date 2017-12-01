@@ -16,7 +16,7 @@ this, they wish to you develop a Java application to process bookings.
 
 - These extra musicians must be included in the 8 above.
 
--The studio bills as follows:
+- The studio bills as follows:
 - 1 day: €260.
 - 2-4 days @ €240 per day.
 - 5 - 8 days @ €210 per day.
