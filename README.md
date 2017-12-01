@@ -10,11 +10,11 @@ this, they wish to you develop a Java application to process bookings.
 - the preferred payment method – Credit Card (5% levy), Cheque, or Cash (5% reduction in bill).
 - the preferred start-date.
 
--The studio can accommodate up to 8 musicians.
+- The studio can accommodate up to 8 musicians.
 
--The studio charges include a sound engineer. Session musicians cost €100 each per day and requests for musicians should be included in the booking request.
+- The studio charges include a sound engineer. Session musicians cost €100 each per day and requests for musicians should be included in the booking request.
 
--These extra musicians must be included in the 8 above.
+- These extra musicians must be included in the 8 above.
 
 -The studio bills as follows:
 - 1 day: €260.
